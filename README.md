@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/moamed018/Frontend-Mentor-Advice-generator-app)
-- Frontend Mentor URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-html-css-js-and-api-2Q5Im54PEs)
-- Live Site URL: [Github Pages](https://moamed018.github.io/Frontend-Mentor-Advice-generator-app/)
+- Solution URL: [Github](https://github.com/moamed018/front-end-mentor-testimonials-grid-section)
+- Frontend Mentor URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-i0q-B5NZyA)
+- Live Site URL: [Github Pages](https://moamed018.github.io/front-end-mentor-testimonials-grid-section/)
 
 ## My process
 
