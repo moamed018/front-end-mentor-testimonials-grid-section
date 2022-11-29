@@ -103,6 +103,9 @@ body {
 
 .testimonial-1 {
   background-color: var(--moderate-violet-bg);
+  background-image: url(./images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position-x: 80%;
 }
 
 .testimonial-2 {
